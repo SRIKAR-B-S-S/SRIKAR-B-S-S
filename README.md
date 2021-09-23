@@ -30,5 +30,5 @@ Connect with me at: <br>
 <a href="https://community.appinventor.mit.edu/u/SRIKAR_B.S.S/summary"> App Inventor Community </a>
 
 ## Github Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SRIKAR-B-S-S&count_private=true&show_icons=true&theme=dracula)]
-[![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SRIKAR-B-S-S&layout=compact)]
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SRIKAR-B-S-S&count_private=true&show_icons=true&theme=dracula)<br>
+![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SRIKAR-B-S-S&layout=compact)
