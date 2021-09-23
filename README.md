@@ -31,4 +31,4 @@ Connect with me at: <br>
 
 ## Github Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SRIKAR-B-S-S&count_private=true&show_icons=true&theme=dracula)]
-
+[![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SRIKAR-B-S-S&layout=compact)]
