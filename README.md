@@ -15,7 +15,7 @@ Here are some ideas to get you started:
  
 - 🤔 I’m looking for help with `My Errors with **Funmora Builder**
 
-- ![FunmoraDev](https://img.shields.io/badge/CEO%2C%20Founder%20Chairman%20of%20-Funmora%20Developers%20Inc.-f55f5f)
+- ![FunmoraDev](https://img.shields.io/badge/CEO%2C%20Founder%2C%20Chairman%20of%20-Funmora%20Developers%20Inc.-f55f5f)
 
 - 💬 Ask me about *Anything you like 🤣*
 
