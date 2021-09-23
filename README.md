@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 ![YouTube](https://img.shields.io/badge/Tech%20World%20With%20Srikar-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 Connect with me at:
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg">
+![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ``B.S.S.SRIKAR#4993``
 
