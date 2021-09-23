@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![YouTube](https://img.shields.io/badge/Tech%20World%20With%20Srikar-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
-Connect with me at:
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mNC8XEW3" height="30" width="40"> ``B.S.S.SRIKAR#4993``
+Connect with me at: <br>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mNC8XEW3" height="30" width="40"> ``B.S.S.SRIKAR#4993`` <br>
+<a href="https://community.appinventor.mit.edu/u/SRIKAR_B.S.S/summary"> App Inventor Community </a>
+
+## Github Stats
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SRIKAR-B-S-S&count_private=true&show_icons=true&theme=dracula)]
 
