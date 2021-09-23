@@ -12,7 +12,6 @@ Here are some ideas to get you started:
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 	![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 - 🤔 I’m looking for help with `My Errors with **Funmora Builder**
 - ![FunmoraDev](https://img.shields.io/badge/CEO%2C%20Founder%20Chairman%20of%20-Funmora%20Developers%20Inc.-f55f5f)
-- 💬 Ask me about *Anything you like 🤣
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about *Anything you like 🤣*
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 🤔 hmm... ``NOTHING``
