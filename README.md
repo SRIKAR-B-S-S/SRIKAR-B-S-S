@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on **Funmora Builder** - *One app is enough to change the world* 👨‍💻
-- ![FunmoraDevbadge](https://img.shields.io/badge/-I%20am%20a%20Funmora%20Dev-f55f5f)
+- ![FunmoraDevbadge](https://img.shields.io/badge/-I%20am%20a%20Funmora%20Dev-f55f5f) DM me on App Inventor Community to join **``Funmora Developers Inc.``** team! 👍 🤩
 - 🌱 I’m currently learning:
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 	![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 - 🤔 I’m looking for help with `My Errors with **Funmora Builder**
