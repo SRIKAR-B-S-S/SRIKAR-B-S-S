@@ -1,5 +1,5 @@
 <center>
-### Hi there 👋, I am SRIKAR
+  <h1>Hi there 👋, I am SRIKAR</h1>
 </center>
 
 <!--
