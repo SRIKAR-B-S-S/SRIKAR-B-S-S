@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 Connect with me at: <br>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mNC8XEW3" height="30" width="40"> ``B.S.S.SRIKAR#4993`` <br>
 <a href="https://community.appinventor.mit.edu/u/SRIKAR_B.S.S/summary"> 
-<img src="https://community.appinventor.mit.edu/uploads/default/original/1X/69d98bd983c7c56415dd3f05dea67a20ac6d355c.png" alt="AI2 Community">App Inventor Community </a>
+<img src="https://community.appinventor.mit.edu/uploads/default/original/1X/69d98bd983c7c56415dd3f05dea67a20ac6d355c.png" alt="AI2 Community" height="30" width="40">App Inventor Community </a>
 
 ## Github Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SRIKAR-B-S-S&count_private=true&show_icons=true&theme=dracula)<br>
