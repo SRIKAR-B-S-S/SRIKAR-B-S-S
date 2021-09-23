@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 ![YouTube](https://img.shields.io/badge/Tech%20World%20With%20Srikar-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 Connect with me at:
-![Discord](https://img.shields.io/badge/%3CB.S.S.SRIKAR#4993%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+### Discord: B.S.S.SRIKAR#4993
 
